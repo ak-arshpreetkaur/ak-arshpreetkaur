@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Tech Stack  
-**Languages:** Python • Java • SQL  
+**Languages:** Python • Java • C • SQL  
 **Tools & Platforms:** Git • GitHub • MySQL • AWS • Tkinter • JavaFX • VS Code • Jira
 
 
